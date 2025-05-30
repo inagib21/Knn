@@ -1,0 +1,3 @@
+/Users/ng/Documents/Code/Programming2/HonorsProject/build/CMakeFiles/knn.dir
+/Users/ng/Documents/Code/Programming2/HonorsProject/build/CMakeFiles/edit_cache.dir
+/Users/ng/Documents/Code/Programming2/HonorsProject/build/CMakeFiles/rebuild_cache.dir
